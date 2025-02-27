@@ -3,8 +3,8 @@
 <div align="center">
   <h2>🔋 nextjs-crypto-landingpage</h2>
   <p>Next.js + Tailwind CSS + TypeScript starter packed with useful component for memecoin landing page.</p>
-  <p>Made by <a href="https://github.com/prorum">prorum</a></p>
-  <p>Preview <a href="https://babybabycoin.vercel.app">site</a></p>
+  <p>Made by <a href="https://github.com/prorum">bitfancy</a></p>
+  <p>Preview <a href="#">site</a></p>
 </div>
 
 ## Features
@@ -58,4 +58,3 @@ This starter is using [conventional commits](https://www.conventionalcommits.org
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# cuddly-broccoli

@@ -1,6 +1,6 @@
 /**
  * @type {import('next-sitemap').IConfig}
- * @see https://github.com/iamvishnusankar/next-sitemap#readme
+ * @see https://github.com/bitfancy
  */
 module.exports = {
   // !STARTERCONF Change the siteUrl
